@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CastK.CSharp.Editor", "UnityVS.CastK.CSharp.Editor.csproj", "{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CastK.CSharp", "UnityVS.CastK.CSharp.csproj", "{0F9ED09C-1D39-6298-369D-A99C37A306FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.CastK.CSharp.Editor", "UnityVS.CastK.CSharp.Editor.csproj", "{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0F9ED09C-1D39-6298-369D-A99C37A306FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0F9ED09C-1D39-6298-369D-A99C37A306FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F9ED09C-1D39-6298-369D-A99C37A306FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F9ED09C-1D39-6298-369D-A99C37A306FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CB9D21-B8CE-CDD6-EB99-E82B2AF2BD64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
